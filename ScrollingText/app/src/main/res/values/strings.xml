@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Lorem Ipsum</string>
+    <string name="article_heading">What is Lorem Ipsum?</string>
+    <string name="article">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt tincidunt porttitor
+        <a href="https://www.lipsum.com/">more about Lorem Ipsum</a>
+        . Etiam pellentesque risus non tempor mattis. Vivamus efficitur purus at blandit interdum. Mauris vel lectus quis quam volutpat faucibus a non urna. Donec sit amet faucibus urna. Phasellus lobortis ex lectus, at auctor justo ultrices a. Pellentesque ac dictum quam, eget iaculis lacus. Pellentesque luctus, ante et egestas fermentum, metus purus ornare tortor, sit amet commodo ligula sapien ut risus. Proin hendrerit iaculis tortor, eu ullamcorper nulla efficitur nec. In leo massa, aliquet et blandit hendrerit, tempor in erat. In at elementum lorem. Duis tellus nunc, interdum id vulputate vel, congue sed dui.
+
+In pretium nulla at ornare eleifend. Vivamus luctus molestie ante, ac bibendum urna fringilla id. Nulla id dolor dui. Sed euismod lorem vel volutpat vestibulum. Quisque fringilla risus ac maximus gravida. In feugiat, nibh porta bibendum vestibulum, nulla turpis dictum urna, vel efficitur tellus libero at elit. Aliquam id ornare urna, sit amet sodales mauris. Cras id convallis magna. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+Sed lacinia at felis at ullamcorper. Fusce eget congue lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut quam risus, sodales sit amet aliquet in, venenatis quis ligula. Proin elementum velit et turpis malesuada varius. Mauris rhoncus turpis urna, vel viverra nibh porta nec. Donec sagittis nibh sit amet orci mattis tristique. Nam cursus interdum lorem, non porttitor tellus blandit vel. Curabitur a sagittis magna. In posuere metus at tortor aliquam iaculis. Curabitur et tellus ac lacus rhoncus egestas et non ex. Etiam dictum, ante eget posuere dignissim, nulla augue venenatis sapien, nec elementum massa magna eu dui. Ut scelerisque pharetra urna, eu vestibulum magna convallis a.
+
+Quisque odio tortor, facilisis in venenatis eget, hendrerit id lectus. Fusce diam purus, pharetra et malesuada et, mollis et velit. Morbi et dapibus elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed egestas leo sed facilisis blandit. Mauris pharetra velit eget nunc lacinia finibus. Aenean id gravida tortor. Proin non turpis sed metus laoreet porta. Proin commodo porta lectus in auctor. Donec augue mauris, suscipit eu convallis et, facilisis a tortor. Maecenas eleifend nec neque sed feugiat. Fusce efficitur suscipit pretium.
+
+Suspendisse auctor varius consectetur. Vestibulum nec laoreet risus. Aenean quis massa auctor nisl hendrerit condimentum. Pellentesque facilisis sollicitudin leo vel tincidunt. Vivamus ultrices auctor nibh, feugiat congue massa dictum non. Sed risus ante, laoreet quis ultrices at, eleifend eget quam. Vestibulum imperdiet sit amet nunc eget semper. Suspendisse sed risus quis massa facilisis facilisis. Sed nec lacus sodales turpis rutrum faucibus at eu risus. Nullam at vulputate neque. Maecenas finibus tempor metus, nec auctor lacus eleifend a. Suspendisse a porttitor nibh. Praesent sed nunc convallis, aliquam tellus eget, rutrum libero. Integer dapibus vitae tortor ullamcorper lobortis. Quisque ac lobortis lacus. Praesent quis eleifend nunc.
+    </string>
+
+</resources>
