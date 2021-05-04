@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout Editor</string>
+    <string name="camera">Camera</string>
+    <string name="setting">Setting</string>
+    <string name="camera_detail">camera detail</string>
+    <string name="singapore">Singapore</string>
+    <string name="discard">DISCARD</string>
+    <string name="upload">UPLOAD</string>
+</resources>
