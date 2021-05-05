@@ -13,14 +13,18 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //Initialize binding
         b=ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(b.getRoot());
 
         setupLink();
     }
 
-    //To clickable link
+    /**
+     * Open URL inside Article TextView
+     */
     private void setupLink() {
+        //To open Url  in Browser
         b.article.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }
