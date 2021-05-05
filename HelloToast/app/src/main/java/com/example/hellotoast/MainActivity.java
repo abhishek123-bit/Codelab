@@ -15,26 +15,35 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //Initialize binding
         b=ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(b.getRoot());
 
+        //Handel the click event
          eventHandler();
     }
 
+    /**
+     * Trigger Event handlers to listen the actions
+     */
     private void eventHandler() {
-
-        //To show the toast message
+        //click listener on Toast button
         b.btnToast.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //Show toast message
                 Toast.makeText(MainActivity.this, R.string.toast_msg, Toast.LENGTH_SHORT).show();
             }
         });
 
-        //To Increase the count value
+        //click listener on Count button
         b.btnCount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                /*
+                 *Increase the count
+                 *Update count TextView
+                 */
                 b.count.setText(++count+"");
             }
         });
