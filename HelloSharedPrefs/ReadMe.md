@@ -1,5 +1,8 @@
 # My HelloSharedPrefs app
 
+I have made an SharedPreference app
+<br>
+which store data in sharedPreference
 
 ## Previews of the application
 
