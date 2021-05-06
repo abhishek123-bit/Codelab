@@ -1,5 +1,8 @@
 # My Hello Toast App
-
+ 
+ I have made an simple app 
+ <br>
+ which increase the value of count and show toast message
 
 ## Previews of the application
 
