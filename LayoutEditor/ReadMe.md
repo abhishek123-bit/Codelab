@@ -1,5 +1,5 @@
 # My LayoutEditor app
-I made a simple UI app by using the constraint layout 
+I made a simple UI app by using the constraints 
 
 ## Previews of the application
 
