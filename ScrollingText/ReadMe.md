@@ -1,6 +1,9 @@
 # My ScrollingText App
 
-
+I have made a simple app
+<br>
+which scroll the layout
+ 
 ## Previews of the application
 
 <img title="" src="https://github.com/abhishek123-bit/CDN/blob/main/ScrollingTextApp/01.png?raw=true" alt="" width="231">
